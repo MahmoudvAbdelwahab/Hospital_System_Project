@@ -1,2 +1,13 @@
-# Hospital_System_Project
-Project Features  Patient Management  Add / Edit / Delete patients  View patient list  Doctor Management  Add / Edit / Delete doctors  Assign doctors to patients  Appointments  Schedule appointments  View upcoming appointments  Basic Authentication  Admin login  Database  SQLite for simplicity
+# Hospital System Project
+Simple Flask-based hospital management skeleton.
+
+**Duration:** Feb - July 2022
+**Tech:** Python, Flask, SQLite
+
+## Files
+- hospital/app.py
+- hospital/requirements.txt
+
+## Run
+1. `pip install -r requirements.txt`
+2. `python app.py` then open http://localhost:5000
